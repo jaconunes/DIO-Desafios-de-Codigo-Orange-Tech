@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f078b9e5-391d-4675-ab34-23fff74edb38" name="Changes" comment="Implementado conceitos de herança e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="f078b9e5-391d-4675-ab34-23fff74edb38" name="Changes" comment="finalizando o estudo de conceito POO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673737117321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finalizando o estudo de conceito POO">
+      <created>1673803577014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673803577014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +156,7 @@
     <MESSAGE value="Realizado desafios de nível básico" />
     <MESSAGE value="Implementado aula de conceituação de POO" />
     <MESSAGE value="Implementado conceitos de herança e polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementado conceitos de herança e polimorfismo" />
+    <MESSAGE value="finalizando o estudo de conceito POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando o estudo de conceito POO" />
   </component>
 </project>
